@@ -10,4 +10,5 @@ public class TestCase101_alparslan {
     public void testDeneme() {
         Driver.getDriver().get(ConfigReader.getProperty("automExerUrl"));
     }
+
 }

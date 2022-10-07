@@ -1,0 +1,29 @@
+
+  ------> Teamden proje yani github guncellendi haberi geldiginde kendi localimizden sırayla <---------
+    --------------->>>>>>>>> LOCALDE MASTERI GUNCELLEMEK <<<<<<<<<<---------------------
+
+    1- git checkout master --> kendi localimizde master branch'e geciyoruz.
+    2- git pull --> projemiz uzak repoya(githubdaki repoya) zaten bağlı olduğundan oto. localdeki
+    master branchimizi güncelleyecek.
+    3- git ckeckout kendiBrancAdimiz --> kendi branchimize yapılan guncellemeri aktarmak icin geciyoruz.
+    4- git merge master --> bunu yapinca bizim localimizdeki projemiz güncellenmiş oluyor.
+
+
+
+    ** Burada önemli olan, bizim localimizdeki master branchinden sadece pull islemi yapmalıyız. Yani master
+    branchimizde, biz sadece git pull kodunu kullanacağiz. Sadece bir ENTER bile hataya neden oluyor.
+    ** Ardindan localimizdeki, bilgisayarimizdaki masterı guncelleyince(git pull) kendi branchimize gecip
+    calismalarimizi yapmak. İslerimiz, (testcaselerimiz) bittiğinde yine kendi branchimizden githubdaki
+    repoya (uzak/ remote repo) git push yapacağız.
+
+
+
+    --------->  Kendi branchimizde yaptığımız işler bitince veya kendi branchimizde islem yapmak icin  <-------------
+    1- git branch --> hangi branch'de oldugumuza bakalim --> kendi branchimizdeysek kodlarimizi yazabiliriz, işlerimizi yapabiliriz.
+    2- git push --> projemizi uzak repoya, githuba gonderiyoruz. (Kendi branchimizdeysek ve islerimiz bittiğinde)
+    3- haber etme
+
+    Bu kısımda Projeyi takip eden kimse durumu haber ediyoruz. biz whatsapptan yada slackten testcase005 bitti uzak repoya/
+    githuba push edildi diye haber edebiliriz. Günlük olarak teamden birileri illa yükleme yapacaği içinde bizimde isimize baslamadan
+    önce, gerekirse her gun localimizdeki masteri guncellemeliyiz. Sayfanın en başındaki islemler yani ---> LOCALDE MASTERI GUNCELLEMEK
+    kisminı yeniden yapıyoruz. bu sekilde bir dongu olusuyor.
