@@ -9,7 +9,7 @@ public class AutomationExercisePage {
         public AutomationExercisePage(){
                 PageFactory.initElements(Driver.getDriver(),this);
         }
-    // alparslan
+    // alparslan  12-49--->>> webElementlerimizin sonuna adimizin son harfini ekleyerek olusturalim. Cakisma olmamasi icin.
 
 
 
@@ -47,14 +47,13 @@ public class AutomationExercisePage {
 
 
 
-    // idris  locate elementin sonuna ismimizin bas harfi
+    // İdris Bey  50-99
 
 
 
 
 
 
-        
 
 
 
@@ -97,8 +96,8 @@ public class AutomationExercisePage {
 
 
 
-    // Orhan Bey
 
+    // Orhan Bey 100-149
 
 
 
@@ -147,8 +146,8 @@ public class AutomationExercisePage {
 
 
 
-    // Cengizhan Bey
 
+    // Cengizhan Bey 150-199
 
 
 
@@ -197,8 +196,8 @@ public class AutomationExercisePage {
 
 
 
-    // Feza Hanim
 
+    // Feza Hanim 200-249
 
 
 
@@ -247,8 +246,8 @@ public class AutomationExercisePage {
 
 
 
-    //  Fatih Bey
 
+    //  Fatih Bey  250-299
 
 
 
@@ -297,7 +296,132 @@ public class AutomationExercisePage {
 
 
 
-    // Abbas Bey
+
+    // Abbas Bey 300-349
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // Seyhan Hanım 350-399
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // Adil Bey 400-449
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

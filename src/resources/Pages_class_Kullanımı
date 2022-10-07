@@ -1,0 +1,45 @@
+
+          ------------------------  PAGES KULLANIMI  --------------------------------------
+1--- Çakışma (conflict) olmasını engellemek icin AutomationExercisePage classini
+isimlerimize göre bölümlere ayırdık. Satır aralığımızı bilirsek olabilecek çakışmalarin önune gecebiliriz.
+
+2-- Aldigimiz locateleri isimlendirirken WebElement adinin sonuna ismimizin ilk harfini yazalım.
+
+ // alparslan  12-49
+ // İdris Bey  50-99
+ // Orhan Bey 100-149
+ // Cengizhan Bey 150-199
+ // Feza Hanim 200-249
+ // Fatih Bey  250-299
+ // Abbas Bey 300-349
+ // Seyhan Hanım 350-399
+ // Adil Bey 400-449
+
+
+    -----------------------TESTS CLASSLAR ICIN---------------------------------------
+
+ 1- Jirada projeden size düşen test caselerin Description bolumundeki Acceptance criterialari copy paste
+ yaparak olusturacağınız classta kodlarinizi yazabilirsiniz veya automationExercise sitesinden de alabilirsiniz.
+
+ 2- Naming convention'a uygun olarak :) ---> TestCase025_isminiz, TestCase05_isminiz gibi isimlendirelim.
+
+ 3- Amacimiz is ortamini canlandirabilmek olduğu için sadece github ve jira takibi yeterli olacaktir. Ama TestCaseleri çözersekte
+ bizim icin artı olacaktır. TestCaseleri çözmesekte sorun degil çözümleri olan bir arkadaştan alıp oluşturacağımız classa atabiliriz:)
+ Galiba Zoomda Orhan Bey ben çözdüm demişti:)
+
+
+
+--------------------------------- JIRA ----------------------------------------------
+
+1- Kodlarini yazdiğimiz testcaselerin ilgili kutucuğunu -In Progress --> In Test ---> Done seklinde ilerletelim.
+
+2- Jira da ne sıklıkla islem yapacağımız konusu kisinin kendi karari aslinda ama sprintimizde 2 hafta olduğundan size
+düşen test case sayisina gore hesaplayip 2 gunde bir veya 3 gunde bir seklinde Jira veya Githubda islem yapabiliriz.
+
+3- En son proje bittiğinde grafikten durumumuzu kontrol edeceğiz. Jirada amacimiz bize verilen sprint süresinde
+bize düsen Test Caseleri tamamlayıp team olarak nasil calistigimizi gormek.
+
+4- Arkadaslar bu jirada bazi toplantilar wardı ama ben bilmiyorum. Bilen bir arkadas buraya eklerse ara ara girer bakariz.
+Bu sayede aklimizda yer eder:)
+
+
